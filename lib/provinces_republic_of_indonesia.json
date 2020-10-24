@@ -1,0 +1,172 @@
+[
+   {
+      "en_name":"Aceh",
+      "id_name":"Aceh",
+      "iso_3166_2_code":"ID-AC"
+   },
+   {
+      "en_name":"Bali",
+      "id_name":"Bali",
+      "iso_3166_2_code":"ID-BA"
+   },
+   {
+      "en_name":"Bangka Belitung Islands",
+      "id_name":"Kepulauan Bangka Belitung",
+      "iso_3166_2_code":"ID-BB"
+   },
+   {
+      "en_name":"Banten",
+      "id_name":"Banten",
+      "iso_3166_2_code":"ID-BT"
+   },
+   {
+      "en_name":"Bengkulu",
+      "id_name":"Bengkulu",
+      "iso_3166_2_code":"ID-BE"
+   },
+   {
+      "en_name":"Central Java",
+      "id_name":"Jawa Tengah",
+      "iso_3166_2_code":"ID-JT"
+   },
+   {
+      "en_name":"Central Kalimantan",
+      "id_name":"Kalimantan Tengah",
+      "iso_3166_2_code":"ID-KT"
+   },
+   {
+      "en_name":"Central Sulawesi",
+      "id_name":"Sulawesi Tengah",
+      "iso_3166_2_code":"ID-ST"
+   },
+   {
+      "en_name":"East Java",
+      "id_name":"Jawa Timur",
+      "iso_3166_2_code":"ID-JL"
+   },
+   {
+      "en_name":"East Kalimantan",
+      "id_name":"Kalimantan Timur",
+      "iso_3166_2_code":"ID-KI"
+   },
+   {
+      "en_name":"East Nusa Tenggara",
+      "id_name":"Nusa Tenggara Timur",
+      "iso_3166_2_code":"ID-NT"
+   },
+   {
+      "en_name":"Gorontalo",
+      "id_name":"Gorontalo",
+      "iso_3166_2_code":"ID_GO"
+   },
+   {
+      "en_name":"Special Capital Region of Jakarta",
+      "id_name":"Jakarta",
+      "iso_3166_2_code":"ID-JK"
+   },
+   {
+      "en_name":"Jambi",
+      "id_name":"Jambi",
+      "iso_3166_2_code":"ID-JA"
+   },
+   {
+      "en_name":"Lampung",
+      "id_name":"Lampung",
+      "iso_3166_2_code":"ID-LA"
+   },
+   {
+      "en_name":"Maluku",
+      "id_name":"Maluku",
+      "iso_3166_2_code":"ID-MA"
+   },
+   {
+      "en_name":"North Kalimantan",
+      "id_name":"Kalimantan Utara",
+      "iso_3166_2_code":"ID-KU"
+   },
+   {
+      "en_name":"North Maluku",
+      "id_name":"Maluku Utara",
+      "iso_3166_2_code":"ID-MU"
+   },
+   {
+      "en_name":"North Sulawesi",
+      "id_name":"Sulawesi Utara",
+      "iso_3166_2_code":"ID-SA"
+   },
+   {
+      "en_name":"North Sumatra",
+      "id_name":"Sumatra Utara",
+      "iso_3166_2_code":"ID-SU"
+   },
+   {
+      "en_name":"Papua",
+      "id_name":"Papua",
+      "iso_3166_2_code":"ID-PA"
+   },
+   {
+      "en_name":"Riau",
+      "id_name":"Riau",
+      "iso_3166_2_code":"ID-RI"
+   },
+   {
+      "en_name":"Riau Islands",
+      "id_name":"Kepulauan Riau",
+      "iso_3166_2_code":"ID-KR"
+   },
+   {
+      "en_name":"Southeast Sulawesi",
+      "id_name":"Sulawesi Tenggara",
+      "iso_3166_2_code":"ID-SG"
+   },
+   {
+      "en_name":"South Kalimantan",
+      "id_name":"Kalimantan Selatan",
+      "iso_3166_2_code":"ID-KS"
+   },
+   {
+      "en_name":"South Sulawesi",
+      "id_name":"Sulawesi Selatan",
+      "iso_3166_2_code":"ID-SN"
+   },
+   {
+      "en_name":"South Sumatra",
+      "id_name":"Sumatra Selatan",
+      "iso_3166_2_code":"ID-SS"
+   },
+   {
+      "en_name":"West Java",
+      "id_name":"Jawa Barat",
+      "iso_3166_2_code":"ID-JB"
+   },
+   {
+      "en_name":"West Kalimantan",
+      "id_name":"Kalimantan Barat",
+      "iso_3166_2_code":"ID-KB"
+   },
+   {
+      "en_name":"West Nusa Tenggara",
+      "id_name":"Nusa Tenggara Barat",
+      "iso_3166_2_code":"ID-NB"
+   },
+   {
+      "en_name":"West Papua",
+      "id_name":"Papua Barat",
+      "iso_3166_2_code":"ID-PB"
+   },
+   {
+      "en_name":"West Sulawesi",
+      "id_name":"Sulawesi Barat",
+      "iso_3166_2_code":"ID-SR"
+   },
+   {
+      "en_name":"West Sumatra",
+      "id_name":"Sumatra Barat",
+      "iso_3166_2_code":"ID-SB"
+   },
+   {
+      "en_name":"Special Region of Yogyajakarta",
+      "id_name":"Yogyajakarta",
+      "iso_3166_2_code":"ID-YO"
+   }
+]
