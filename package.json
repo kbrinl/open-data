@@ -1,0 +1,29 @@
+{
+  "name": "kbrinl-open-data",
+  "version": "1.0.0",
+  "description": "A repository of open datasets offered by the Visa, Immigration and Passports services of the Embassy of the Republic of Indonesia in The Hague.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbrinl/open-data.git"
+  },
+  "keywords": [
+    "open data",
+    "republic of indonesia",
+    "indonesia",
+    "administrative data",
+    "embassy of the republic of indonesia"
+  ],
+  "author": "kbrinl",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/kbrinl/open-data/issues"
+  },
+  "homepage": "https://github.com/kbrinl/open-data"
+}
