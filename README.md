@@ -6,7 +6,7 @@ Indonesia in The Hague.
 
 ## Overview of contents
 
- Dataset | Original use | Data Update Frequency | keywords | link
+ Dataset | Original use | Data update frequency | Keywords | Link
  ------- | ------------ | --------------------- | -------- | ----
  List of provinces in Indonesia | Validation when inputting (Indonesian) address information in web forms | Extremely rarely | administrative, provinces, ISO-3166-2, place names | [Link](lib/provinces_republic_of_indonesia.json)
 
