@@ -9,6 +9,7 @@ Indonesia in The Hague.
  Dataset | Original use | Data update frequency | Keywords | Link
  ------- | ------------ | --------------------- | -------- | ----
  List of provinces in Indonesia | Validation when inputting (Indonesian) address information in web forms | Extremely rarely | administrative, provinces, ISO-3166-2, place names | [Link](lib/provinces_republic_of_indonesia.json)
+ List of country names | Automating the population of select fields when prompting users about a nationality | Extremely rarely | administrative, ISO-3166-1 ISO-3166, country names | [Link](lib/country_names.json)
 
 ## License
 
